@@ -6,7 +6,13 @@ Solución para el hackaton de vertical de Nube en el programa de Innovaccion. Co
 
 Este videojuego se conecta a los servicios cognitivos de Azure de speech recognition y computer visión para que obtengas armas y ataques a los enemigos.
 
+![azure](./azure.png)
+
 Se tiene pensado que funcione con tecnologías Microsoft como Hololens para aprovechar la tecnología de realidad mixta, los sensores y receptores de audio, así como la camara para funciones avanzadas de reconocimiento y detección de imagenes y patrones.
+
+![juego1](./juego1.png)
+![juego2](./juego2.png)
+![juego3](./juego3.png)
 
 Nos cambiaron las tecnologías que debiamos usar(IoS y API .Net) por tecnologías 100% Microsoft, lo cual fue un gran reto ya que debimos configurar todo el entorno, aprovisionando una maquina virtual y seteando todo el ambiente, instalando dependencias y recursos necesarios desde cero.
 
