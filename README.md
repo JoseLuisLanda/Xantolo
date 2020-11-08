@@ -20,6 +20,8 @@ En la parte de diseño. planteamiento y propuesta de la idea tuvimos que enfrent
 -José Luis Jiménez Landa
 viajero13279@innovaccion.mx
 
+Mi experiencia: Fue un hackaton muy especial y que me dejo mucho aprendizaje, ya que fue totalmente en linea, sin interacción física y sin conocer previamente a los integrantes del equipo, sin embargo nos organizamos tuvimos algunas juntas por meetings donde nos conocimos, delegamos trabajo y nos sincronizamos para poder todos colaborar desde nuestra experiencia, conocimientos y hábilidades. Agradezco mucho a todos por su compromiso, determinación, ideas y trabajo que hicieron que esta idea fuera más alla de su concepción. Independientemente del resultado, si pasamos o no, si ganamos o no, me quedo con la experiencia, lo aprendido y si me lo permiten su contacto y amistad. Gracias por todo, saludos y éxito.
+
 -Carolina González Guerrero
 viajero08598@innovaccion.mx
 
